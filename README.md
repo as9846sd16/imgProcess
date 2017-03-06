@@ -5,7 +5,8 @@
 架構:
 
 imgProcess(Project)
- 	|--src(File)
+ 	
+	|--src(File)
  		|--imgProcess(Package)
 	|--MainApp.java				//程式進入點及視窗底層
 	|--model(Package)
